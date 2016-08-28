@@ -1,2 +1,2 @@
 # Homepage
-Testing 
+Testing the page
